@@ -1,11 +1,13 @@
 \header {
-  title = "Tushar's melody"
+  title = "Practice number 1"
   composer = "Tushar & Shona"
 }
 
 \score {
+  
   \relative c' {
-    c4 b c b c b a
+    eis bis dis ais eis ais gis 
+    bis eis gis bis ais gis ais
   }
 
   \layout {}
